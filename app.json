@@ -25,7 +25,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "GuruBot~yBBJQGxs"
     },
     "MODE": {
       "description": "mode public or private",
