@@ -16,7 +16,7 @@
 </p>
 
 ####  
-GURU-BOT- Simple Multi Device whatsapp bot.
+GURU-Ai- Simple Multi Device whatsapp bot.
 
 ***
 
